@@ -1,0 +1,34 @@
+CHICO: Mamá, ¿qué hay para cenar hoy?
+MUJER: Esta noche, ensalada para todos.
+VOZ DEL NARRADOR: Conteste a la pregunta ¿Qué van a cenar esta noche?
+CHICO: Mamá, ¿qué hay para cenar hoy?
+MUJER: Esta noche, ensalada para todos.
+VOZ DEL NARRADOR: Conteste a la pregunta ¿Qué van a cenar esta noche?
+MUJER: ¿Dónde prefieres ir este año de vacaciones, a la montaña o a la playa?
+HOMBRE: A mí me gusta mucho más ir a la playa
+VOZ DEL NARRADOR: Conteste a la pregunta ¿A dónde prefiere ir el hombre de
+vacaciones?
+MUJER: ¿Dónde prefieres ir este año de vacaciones, a la montaña o a la playa?
+HOMBRE A mí me gusta mucho más ir a la playa
+VOZ DEL NARRADOR: Conteste a la pregunta ¿A dónde prefiere ir el hombre de
+vacaciones?
+MUJER: Oiga, por favor, ¿puedo pagar con tarjeta?
+HOMBRE: Sí, sí, no hay ningún problema.
+VOZ DEL NARRADOR: Conteste a la pregunta ¿Cómo quiere pagar el cliente?
+MUJER: Oiga, por favor, ¿puedo pagar con tarjeta?
+HOMBRE: Sí, sí, no hay ningún problema.
+VOZ DEL NARRADOR: Conteste a la pregunta ¿Cómo quiere pagar el cliente?
+CHICO: Oye, María, el coche de tu hermana es de color rojo ¿verdad?
+CHICA: No, rojo no, es blanco.
+VOZ DEL NARRADOR: Conteste a la pregunta ¿De qué color es el coche de la hermana
+de María?
+CHICO: Oye, María, el coche de tu hermana es de color rojo ¿verdad?
+CHICA: No, rojo no, es blanco.
+VOZ DEL NARRADOR: Conteste a la pregunta ¿De qué color es el coche de la hermana
+de María?
+CHICO: Oye, Ana, ¿está tu novio en casa ahora?
+CHICA: No, está corriendo por la playa.
+VOZ DEL NARRADOR: Conteste a la pregunta ¿Qué está haciendo el novio de Ana?
+CHICO: Oye, Ana, ¿está tu novio en casa ahora?
+CHICA: No, está corriendo por la playa.
+VOZ DEL NARRADOR: Conteste a la pregunta ¿Qué está haciendo el novio de Ana?

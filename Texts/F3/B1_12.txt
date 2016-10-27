@@ -1,0 +1,21 @@
+EN ELRESTAURANTE.
+CAMARERO: Aquí tiene, señor. ¿Quiere pagar en efectivo o con tarjeta?
+CAMARERO: Aquí tiene.
+CLIENTE: Ah, pues entonces tráigame la tarta. Y también la cuenta, si es tan amable.
+CLIENTE: Sí, tráigame un poco de queso y jamón, por favor.
+CLIENTE: De segundo me gustaría tomar la merluza a la vizcaína.
+CAMARERO: Aquí tiene la máquina, caballero. Introduzca su número PIN.
+CLIENTE: Camarero, por favor. Me gustaría pedir un postre. ¿Qué me recomienda?
+CLIENTE: La carta, por favor.
+CAMARERO: Así lo haré, señor. Muchas gracias por su visita. Esperamos tenerle con nosotros
+pronto.
+CLIENTE: Sí, quiero una ensalada vegetal.
+CAMARERO: Muy bien. ¿Puede pasarme el menú, por favor?
+CAMARERO: Muy bien, ¿y de segundo?
+CAMARERO: Aquí tiene. ¿Quiere pedir algo de aperitivo?
+CAMARERO: Tenemos flan, helado y una tarta de queso especialidad de la casa.
+CLIENTE: Muchas gracias. ¿Podría traerme un poco de agua, por favor?
+CAMARERO: Perfecto. Un momento (Unos minutos después) Aquí tiene, caballero. ¿Ya sabe lo que quiere pedir de primero?
+CLIENTE: Con tarjeta.
+CLIENTE: Muchas gracias. Y felicite al cocinero de mi parte. Está todo muy rico.
+CAMARERO: Buenas tardes, ¿quiere la carta o el menú del día?
