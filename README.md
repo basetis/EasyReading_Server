@@ -18,16 +18,6 @@ In this case, it has analyzed some texts tagged with their difficulties. As a pa
 - percentage of words of every grammatical category
 - main verbs vs auxiliary verbs ratio
 
-The app has only a few different screens which simplify its usage. The steps to be followed to classify text are:
-1. Select some text from 1 of 3 possible sources
-      - From a URL
-      - From an attached file
-      - From written text
-2. Press “Process Text”
-3. The App shows the user the difficulty level of the text
-
-EasyReading was developed in the “PhoneGap” technology which allows it to be used in both Android or iOS devices.
-
 ## Installation
 
 1. Download the repository on your local hard drive.
